@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\GitHub\Portfolio\Portfolio\Portfolio
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/GitHub/Portfolio/Portfolio/Portfolio/Pages/Bio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/GitHub/Portfolio/Portfolio/Portfolio/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
